@@ -1,6 +1,4 @@
-## The greatest programmer of my house
-
-- 🧑‍🎓 I'm currently studying Software Development.
+I'm currently studying Software Development.
 
 <!--
 **Oscolf/Oscolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
